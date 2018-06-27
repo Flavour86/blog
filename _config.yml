@@ -4,12 +4,13 @@
 
 # Site
 title: 江典恩博客
-subtitle:
-description:
+subtitle: 江典恩技术博客
+description: 一个属于自己空间
 keywords:
 author: Jiang Dianen
-language: zh-CN
+language: zh-Hans
 timezone:
+since: 2017
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -73,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,3 +82,24 @@ deploy:
   type: git
   repo: https://github.com/jiangdianen/jiangdianen.github.io.git
   branch: master
+
+# avatar url
+avatar: /images/avatar.jpg
+
+# duoshuo
+disqus_shortname: jiangdianen_blog
+
+# menu
+menu:
+    home: /
+    archives: /archives
+    tags: /tags
+    categories: /categories
+menu_icons:
+  enable: true
+
+social:
+  GitHub: https://github.com/jiangdianen
+  Weibo: https://weibo.com/1107925187/profile?rightmod=1&wvr=6&mod=personinfo
+  ZhiHu: your-zhihu-url
+
