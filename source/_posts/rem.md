@@ -2,7 +2,10 @@
 layout: 实现
 title: rem
 date: 2018-06-26 20:48:36
-tags: rem
+tags:
+- rem
+categories:
+- 插件使用
 ---
 
 ## 淘宝、网易移动端 px 转换 rem 原理，Vue-cli 实现 px 转换 rem
