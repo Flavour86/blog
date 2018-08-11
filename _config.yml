@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 江典恩博客
-subtitle: 江典恩技术博客
+title: Flavour's Technical Blog
+subtitle: A Blog About Front-end Technology
 description: 一个属于自己空间
 keywords:
-author: Jiang Dianen
+author: Flavour Jiang
 language: zh-Hans
 timezone:
 since: 2017
@@ -80,14 +80,14 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jiangdianen/jiangdianen.github.io.git
+  repo: https://github.com/Flavour86/Flavour86.github.io.git
   branch: master
 
 # avatar url
 avatar: /images/avatar.jpg
 
 # duoshuo
-disqus_shortname: jiangdianen_blog
+disqus_shortname: Flavour86_blog
 
 # menu
 menu:
@@ -99,7 +99,7 @@ menu_icons:
   enable: true
 
 social:
-  GitHub: https://github.com/jiangdianen
+  GitHub: https://github.com/Flavour86
   Weibo: https://weibo.com/1107925187/profile?rightmod=1&wvr=6&mod=personinfo
   ZhiHu: your-zhihu-url
 
